@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 2 problems · 0 labs · 6 math
+**9** solved · 2 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-30 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-30 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-30 | [solution](math/0012-inverse-and-rank) |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-30 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-30 | [solution](math/0002-multivariate-calculus) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-30 | [solution](math/0014-orthogonality-and-projections) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-30 | [solution](math/0013-solving-linear-systems) |
