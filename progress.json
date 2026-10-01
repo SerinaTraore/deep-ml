@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:39:55.484Z",
+  "generated_at": "2026-10-01T18:22:44.553Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -114,6 +114,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-30T22:39:54.895Z",
       "last_pushed_at": "2026-09-30T22:39:54.895Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-01T18:22:43.849Z",
+      "last_pushed_at": "2026-10-01T18:22:43.849Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
