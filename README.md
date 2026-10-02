@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 10 problems · 0 labs · 30 math
+**41** solved · 10 problems · 0 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-30 | [solution](math/0014-orthogonality-and-projections) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-02 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-02 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-02 | [solution](math/0031-regularization-and-generalization) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-01 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-30 | [solution](math/0013-solving-linear-systems) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-01 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
