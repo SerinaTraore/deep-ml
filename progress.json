@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:01:08.200Z",
+  "generated_at": "2026-10-02T22:09:20.798Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -482,6 +482,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-10-02T22:01:07.553Z",
       "last_pushed_at": "2026-10-02T22:01:07.553Z"
+    },
+    "math:43": {
+      "kind": "math",
+      "id": "43",
+      "title": "Model Selection: CV, AIC, and BIC",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/43",
+      "path": "math/0043-model-selection-cv-aic-and-bic",
+      "first_solved_at": "2026-10-02T22:09:19.620Z",
+      "last_pushed_at": "2026-10-02T22:09:19.620Z"
     }
   }
 }
