@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:26:17.128Z",
+  "generated_at": "2026-10-02T14:38:41.408Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -394,6 +394,17 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-10-02T14:26:16.481Z",
       "last_pushed_at": "2026-10-02T14:26:16.481Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-02T14:38:40.856Z",
+      "last_pushed_at": "2026-10-02T14:38:40.856Z"
     }
   }
 }
