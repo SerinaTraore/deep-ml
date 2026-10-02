@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:23:09.859Z",
+  "generated_at": "2026-10-02T08:46:50.931Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -350,6 +350,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-02T07:23:09.219Z",
       "last_pushed_at": "2026-10-02T07:23:09.219Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-10-02T08:46:50.413Z",
+      "last_pushed_at": "2026-10-02T08:46:50.413Z"
     }
   }
 }

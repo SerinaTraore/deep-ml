@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 10 problems · 0 labs · 20 math
+**31** solved · 10 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-01 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-30 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-30 | [solution](math/0011-determinants-and-trace) |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-02 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-30 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-01 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-30 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
