@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:09:20.798Z",
+  "generated_at": "2026-10-07T20:47:14.680Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -493,6 +493,19 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-10-02T22:09:19.620Z",
       "last_pushed_at": "2026-10-02T22:09:19.620Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-07T20:47:14.041Z",
+      "last_pushed_at": "2026-10-07T20:47:14.041Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
