@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:50:25.662Z",
+  "generated_at": "2026-10-10T21:17:44.750Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -634,6 +634,17 @@
       "last_pushed_at": "2026-10-07T21:50:24.914Z",
       "language": "python",
       "lines": 14
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-10-10T21:17:43.633Z",
+      "last_pushed_at": "2026-10-10T21:17:43.633Z"
     }
   }
 }
