@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 20 problems · 0 labs · 41 math
+**62** solved · 20 problems · 0 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-02 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-02 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-02 | [solution](math/0031-regularization-and-generalization) |
+| [RSE, $R^2$, and the F-Statistic for Overall Significance](https://www.deep-ml.com/math-problems/76) | medium | 2026-10-13 | [solution](math/0076-rse-r-2-and-the-f-statistic-for-overall-significance) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-01 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-30 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-10-10 | [solution](math/0027-statistical-inference) |
