@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 20 problems · 0 labs · 36 math
+**57** solved · 20 problems · 0 labs · 37 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-30 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-10-10 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-01 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [The Challenge of Multiple Testing](https://www.deep-ml.com/math-problems/123) | medium | 2026-10-13 | [solution](math/0123-the-challenge-of-multiple-testing) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-02 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-02 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-02 | [solution](math/0025-kl-divergence) |
