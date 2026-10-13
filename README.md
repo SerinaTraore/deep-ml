@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 20 problems · 0 labs · 43 math
+**64** solved · 20 problems · 0 labs · 44 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bootstrap Resampling: $(1-1/n)^n$ and Out-of-Bag Points](https://www.deep-ml.com/math-problems/82) | easy | 2026-10-13 | [solution](math/0082-bootstrap-resampling-1-1-n-n-and-out-of-bag-points) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-02 | [solution](math/0009-matrix-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-02 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-07 | [solution](math/0019-probability-fundamentals) |
