@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 20 problems · 0 labs · 45 math
+**66** solved · 20 problems · 0 labs · 46 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-10-10 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-01 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Challenge of Multiple Testing](https://www.deep-ml.com/math-problems/123) | medium | 2026-10-13 | [solution](math/0123-the-challenge-of-multiple-testing) |
+| [Two-Sample Tests: Pooled t, Welch, and Paired](https://www.deep-ml.com/math-problems/86) | medium | 2026-10-13 | [solution](math/0086-two-sample-tests-pooled-t-welch-and-paired) |
 | [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-10-13 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-02 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-02 | [solution](math/0016-eigendecomposition-and-svd) |
