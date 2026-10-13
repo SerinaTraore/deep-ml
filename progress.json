@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:05:17.287Z",
+  "generated_at": "2026-10-13T16:13:24.211Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -667,6 +667,17 @@
       "path": "math/0123-the-challenge-of-multiple-testing",
       "first_solved_at": "2026-10-13T16:05:16.453Z",
       "last_pushed_at": "2026-10-13T16:05:16.453Z"
+    },
+    "math:83": {
+      "kind": "math",
+      "id": "83",
+      "title": "Type I and Type II Error, Power, and the Uniform Null",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/83",
+      "path": "math/0083-type-i-and-type-ii-error-power-and-the-uniform-null",
+      "first_solved_at": "2026-10-13T16:13:23.499Z",
+      "last_pushed_at": "2026-10-13T16:13:23.499Z"
     }
   }
 }
