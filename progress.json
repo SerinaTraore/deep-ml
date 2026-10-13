@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:20:22.971Z",
+  "generated_at": "2026-10-13T16:39:06.633Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -689,6 +689,17 @@
       "path": "math/0084-family-wise-error-rate-bonferroni-and-holm",
       "first_solved_at": "2026-10-13T16:20:22.232Z",
       "last_pushed_at": "2026-10-13T16:20:22.232Z"
+    },
+    "math:87": {
+      "kind": "math",
+      "id": "87",
+      "title": "Chi-Square Tests: Goodness of Fit and Independence",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/87",
+      "path": "math/0087-chi-square-tests-goodness-of-fit-and-independence",
+      "first_solved_at": "2026-10-13T16:39:05.913Z",
+      "last_pushed_at": "2026-10-13T16:39:05.913Z"
     }
   }
 }
