@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:45:22.632Z",
+  "generated_at": "2026-10-13T22:27:09.230Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -788,6 +788,17 @@
       "path": "math/0077-confidence-intervals-vs-prediction-intervals",
       "first_solved_at": "2026-10-13T21:45:22.011Z",
       "last_pushed_at": "2026-10-13T21:45:22.011Z"
+    },
+    "math:242": {
+      "kind": "math",
+      "id": "242",
+      "title": "Expected Waiting Time for Coin Patterns: First-Step Analysis",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/242",
+      "path": "math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis",
+      "first_solved_at": "2026-10-13T22:27:08.672Z",
+      "last_pushed_at": "2026-10-13T22:27:08.672Z"
     }
   }
 }

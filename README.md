@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 20 problems · 0 labs · 48 math
+**69** solved · 20 problems · 0 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-30 | [solution](math/0017-covariance-and-correlation) |
 | [Credible Intervals vs Confidence Intervals](https://www.deep-ml.com/math-problems/89) | medium | 2026-10-13 | [solution](math/0089-credible-intervals-vs-confidence-intervals) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-30 | [solution](math/0011-determinants-and-trace) |
+| [Expected Waiting Time for Coin Patterns: First-Step Analysis](https://www.deep-ml.com/math-problems/242) | medium | 2026-10-13 | [solution](math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis) |
 | [Family-Wise Error Rate: Bonferroni and Holm](https://www.deep-ml.com/math-problems/84) | medium | 2026-10-13 | [solution](math/0084-family-wise-error-rate-bonferroni-and-holm) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-02 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-30 | [solution](math/0012-inverse-and-rank) |
