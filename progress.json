@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:00:44.211Z",
+  "generated_at": "2026-10-19T15:10:45.790Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -810,6 +810,17 @@
       "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
       "first_solved_at": "2026-10-19T15:00:43.398Z",
       "last_pushed_at": "2026-10-19T15:00:43.398Z"
+    },
+    "math:81": {
+      "kind": "math",
+      "id": "81",
+      "title": "The Bootstrap: a Standard Error Without a Formula",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/81",
+      "path": "math/0081-the-bootstrap-a-standard-error-without-a-formula",
+      "first_solved_at": "2026-10-19T15:10:45.135Z",
+      "last_pushed_at": "2026-10-19T15:10:45.135Z"
     }
   }
 }

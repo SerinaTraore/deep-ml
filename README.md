@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 20 problems · 0 labs · 50 math
+**71** solved · 20 problems · 0 labs · 51 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-30 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-10-10 | [solution](math/0027-statistical-inference) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-01 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [The Bootstrap: a Standard Error Without a Formula](https://www.deep-ml.com/math-problems/81) | medium | 2026-10-19 | [solution](math/0081-the-bootstrap-a-standard-error-without-a-formula) |
 | [The Challenge of Multiple Testing](https://www.deep-ml.com/math-problems/123) | medium | 2026-10-13 | [solution](math/0123-the-challenge-of-multiple-testing) |
 | [Two-Sample Tests: Pooled t, Welch, and Paired](https://www.deep-ml.com/math-problems/86) | medium | 2026-10-13 | [solution](math/0086-two-sample-tests-pooled-t-welch-and-paired) |
 | [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-10-13 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
