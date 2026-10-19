@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:27:09.230Z",
+  "generated_at": "2026-10-19T15:00:44.211Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -799,6 +799,17 @@
       "path": "math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis",
       "first_solved_at": "2026-10-13T22:27:08.672Z",
       "last_pushed_at": "2026-10-13T22:27:08.672Z"
+    },
+    "math:80": {
+      "kind": "math",
+      "id": "80",
+      "title": "LOOCV vs $k$-Fold: the Bias-Variance of $k$",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/80",
+      "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
+      "first_solved_at": "2026-10-19T15:00:43.398Z",
+      "last_pushed_at": "2026-10-19T15:00:43.398Z"
     }
   }
 }

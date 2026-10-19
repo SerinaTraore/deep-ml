@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**69** solved · 20 problems · 0 labs · 49 math
+**70** solved · 20 problems · 0 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leverage, Outliers, and Cook's Distance](https://www.deep-ml.com/math-problems/78) | medium | 2026-10-13 | [solution](math/0078-leverage-outliers-and-cook-s-distance) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-02 | [solution](math/0038-log-likelihood-gradients) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-30 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
+| [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-19 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-30 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-02 | [solution](math/0010-matrix-multiplication) |
 | [Multicollinearity and the Variance Inflation Factor](https://www.deep-ml.com/math-problems/79) | medium | 2026-10-13 | [solution](math/0079-multicollinearity-and-the-variance-inflation-factor) |
