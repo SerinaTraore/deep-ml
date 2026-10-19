@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:17:53.131Z",
+  "generated_at": "2026-10-19T15:40:02.083Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -832,6 +832,17 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-10-19T15:17:52.440Z",
       "last_pushed_at": "2026-10-19T15:17:52.440Z"
+    },
+    "math:148": {
+      "kind": "math",
+      "id": "148",
+      "title": "Moment-Generating Functions and a Central Limit Theorem Sketch",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/148",
+      "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
+      "first_solved_at": "2026-10-19T15:40:01.429Z",
+      "last_pushed_at": "2026-10-19T15:40:01.429Z"
     }
   }
 }
