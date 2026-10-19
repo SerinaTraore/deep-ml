@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:10:45.790Z",
+  "generated_at": "2026-10-19T15:17:53.131Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -821,6 +821,17 @@
       "path": "math/0081-the-bootstrap-a-standard-error-without-a-formula",
       "first_solved_at": "2026-10-19T15:10:45.135Z",
       "last_pushed_at": "2026-10-19T15:10:45.135Z"
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-10-19T15:17:52.440Z",
+      "last_pushed_at": "2026-10-19T15:17:52.440Z"
     }
   }
 }
