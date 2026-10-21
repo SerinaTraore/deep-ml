@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:38:06.669Z",
+  "generated_at": "2026-10-21T21:50:01.831Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -947,6 +947,19 @@
       "last_pushed_at": "2026-10-21T21:38:06.115Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-10-21T21:50:01.273Z",
+      "last_pushed_at": "2026-10-21T21:50:01.273Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
