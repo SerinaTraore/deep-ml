@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:40:02.083Z",
+  "generated_at": "2026-10-21T19:51:09.802Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -843,6 +843,19 @@
       "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
       "first_solved_at": "2026-10-19T15:40:01.429Z",
       "last_pushed_at": "2026-10-19T15:40:01.429Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-10-21T19:51:08.872Z",
+      "last_pushed_at": "2026-10-21T19:51:08.872Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
