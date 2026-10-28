@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:55:23.454Z",
+  "generated_at": "2026-10-28T18:48:06.678Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -999,6 +999,17 @@
       "last_pushed_at": "2026-10-21T21:55:22.777Z",
       "language": "python",
       "lines": 46
+    },
+    "math:423": {
+      "kind": "math",
+      "id": "423",
+      "title": "The Curse of Dimensionality: How Far Away Is Your Nearest Neighbour?",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/423",
+      "path": "math/0423-the-curse-of-dimensionality-how-far-away-is-your-nearest-neighbour",
+      "first_solved_at": "2026-10-28T18:48:05.961Z",
+      "last_pushed_at": "2026-10-28T18:48:05.961Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 32 problems · 0 labs · 53 math
+**86** solved · 32 problems · 0 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-02 | [solution](math/0009-matrix-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-02 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-07 | [solution](math/0019-probability-fundamentals) |
+| [The Curse of Dimensionality: How Far Away Is Your Nearest Neighbour?](https://www.deep-ml.com/math-problems/423) | easy | 2026-10-28 | [solution](math/0423-the-curse-of-dimensionality-how-far-away-is-your-nearest-neighbour) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-02 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-01 | [solution](math/0020-bayes-theorem) |
