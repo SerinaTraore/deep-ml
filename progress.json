@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:55:16.129Z",
+  "generated_at": "2026-10-28T19:47:47.885Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1021,6 +1021,17 @@
       "path": "math/0455-why-centering-decorrelates-the-intercept-and-the-slope",
       "first_solved_at": "2026-10-28T18:55:15.258Z",
       "last_pushed_at": "2026-10-28T18:55:15.258Z"
+    },
+    "math:365": {
+      "kind": "math",
+      "id": "365",
+      "title": "Uncorrelated but Dependent: Y = X² and Correlation as a Degree of Linearity",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/365",
+      "path": "math/0365-uncorrelated-but-dependent-y-x-and-correlation-as-a-degree-of-linearity",
+      "first_solved_at": "2026-10-28T19:47:47.039Z",
+      "last_pushed_at": "2026-10-28T19:47:47.039Z"
     }
   }
 }
