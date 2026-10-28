@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 32 problems · 0 labs · 54 math
+**87** solved · 32 problems · 0 labs · 55 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-07 | [solution](math/0019-probability-fundamentals) |
 | [The Curse of Dimensionality: How Far Away Is Your Nearest Neighbour?](https://www.deep-ml.com/math-problems/423) | easy | 2026-10-28 | [solution](math/0423-the-curse-of-dimensionality-how-far-away-is-your-nearest-neighbour) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-02 | [solution](math/0007-vector-operations) |
+| [Why Centering Decorrelates the Intercept and the Slope](https://www.deep-ml.com/math-problems/455) | easy | 2026-10-28 | [solution](math/0455-why-centering-decorrelates-the-intercept-and-the-slope) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-01 | [solution](math/0020-bayes-theorem) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-02 | [solution](math/0039-bias-variance-decomposition) |
