@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 32 problems · 0 labs · 64 math
+**97** solved · 32 problems · 0 labs · 65 math
 
 ![Coverage](./coverage.svg)
 
@@ -113,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-10-02 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-10-19 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-31 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-31 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
 
