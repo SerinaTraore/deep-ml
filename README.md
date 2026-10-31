@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 32 problems · 0 labs · 59 math
+**92** solved · 32 problems · 0 labs · 60 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Why Centering Decorrelates the Intercept and the Slope](https://www.deep-ml.com/math-problems/455) | easy | 2026-10-28 | [solution](math/0455-why-centering-decorrelates-the-intercept-and-the-slope) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-01 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-01 | [solution](math/0020-bayes-theorem) |
+| [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-10-31 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-02 | [solution](math/0039-bias-variance-decomposition) |
 | [Chi-Square Tests: Goodness of Fit and Independence](https://www.deep-ml.com/math-problems/87) | medium | 2026-10-13 | [solution](math/0087-chi-square-tests-goodness-of-fit-and-independence) |
 | [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-13 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |

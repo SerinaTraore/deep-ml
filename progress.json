@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:55:35.725Z",
+  "generated_at": "2026-10-31T10:08:05.087Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1065,6 +1065,17 @@
       "path": "math/0105-qualitative-predictors-dummy-coding-and-interactions",
       "first_solved_at": "2026-10-31T09:55:35.048Z",
       "last_pushed_at": "2026-10-31T09:55:35.048Z"
+    },
+    "math:107": {
+      "kind": "math",
+      "id": "107",
+      "title": "Best Subset and Stepwise Selection",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/107",
+      "path": "math/0107-best-subset-and-stepwise-selection",
+      "first_solved_at": "2026-10-31T10:08:04.540Z",
+      "last_pushed_at": "2026-10-31T10:08:04.540Z"
     }
   }
 }
