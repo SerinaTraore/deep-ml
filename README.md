@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**98** solved · 32 problems · 0 labs · 66 math
+**99** solved · 32 problems · 0 labs · 67 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-02 | [solution](math/0009-matrix-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-02 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-07 | [solution](math/0019-probability-fundamentals) |
+| [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-31 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [The Curse of Dimensionality: How Far Away Is Your Nearest Neighbour?](https://www.deep-ml.com/math-problems/423) | easy | 2026-10-28 | [solution](math/0423-the-curse-of-dimensionality-how-far-away-is-your-nearest-neighbour) |
 | [Uncorrelated but Dependent: Y = X² and Correlation as a Degree of Linearity](https://www.deep-ml.com/math-problems/365) | easy | 2026-10-28 | [solution](math/0365-uncorrelated-but-dependent-y-x-and-correlation-as-a-degree-of-linearity) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-02 | [solution](math/0007-vector-operations) |
