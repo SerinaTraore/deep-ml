@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:04:29.450Z",
+  "generated_at": "2026-10-31T11:11:41.540Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1109,6 +1109,17 @@
       "path": "math/0092-poisson-regression-and-the-glm-link-function",
       "first_solved_at": "2026-10-31T11:04:28.747Z",
       "last_pushed_at": "2026-10-31T11:04:28.747Z"
+    },
+    "math:93": {
+      "kind": "math",
+      "id": "93",
+      "title": "$C_p$, AIC, BIC, and Adjusted $R^2$",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/93",
+      "path": "math/0093-c-p-aic-bic-and-adjusted-r-2",
+      "first_solved_at": "2026-10-31T11:11:41.022Z",
+      "last_pushed_at": "2026-10-31T11:11:41.022Z"
     }
   }
 }
