@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 32 problems · 0 labs · 69 math
+**102** solved · 32 problems · 0 labs · 70 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Waiting Time for Coin Patterns: First-Step Analysis](https://www.deep-ml.com/math-problems/242) | medium | 2026-10-13 | [solution](math/0242-expected-waiting-time-for-coin-patterns-first-step-analysis) |
 | [Family-Wise Error Rate: Bonferroni and Holm](https://www.deep-ml.com/math-problems/84) | medium | 2026-10-13 | [solution](math/0084-family-wise-error-rate-bonferroni-and-holm) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-02 | [solution](math/0024-information-theory-entropy) |
+| [Interview Probability Puzzles: Unreliable Witnesses, Complements and Who Rolls First](https://www.deep-ml.com/math-problems/186) | medium | 2026-10-31 | [solution](math/0186-interview-probability-puzzles-unreliable-witnesses-complements-and-who-rolls-first) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-30 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-01 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-10-10 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
