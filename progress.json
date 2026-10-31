@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:47:47.885Z",
+  "generated_at": "2026-10-31T09:24:20.744Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1032,6 +1032,17 @@
       "path": "math/0365-uncorrelated-but-dependent-y-x-and-correlation-as-a-degree-of-linearity",
       "first_solved_at": "2026-10-28T19:47:47.039Z",
       "last_pushed_at": "2026-10-28T19:47:47.039Z"
+    },
+    "math:119": {
+      "kind": "math",
+      "id": "119",
+      "title": "Regularized Cox Models and the Concordance Index",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/119",
+      "path": "math/0119-regularized-cox-models-and-the-concordance-index",
+      "first_solved_at": "2026-10-31T09:24:20.096Z",
+      "last_pushed_at": "2026-10-31T09:24:20.096Z"
     }
   }
 }
