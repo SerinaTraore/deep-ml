@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:49:05.104Z",
+  "generated_at": "2026-10-31T11:04:29.450Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1098,6 +1098,17 @@
       "path": "math/0109-what-goes-wrong-in-high-dimensions",
       "first_solved_at": "2026-10-31T10:49:04.548Z",
       "last_pushed_at": "2026-10-31T10:49:04.548Z"
+    },
+    "math:92": {
+      "kind": "math",
+      "id": "92",
+      "title": "Poisson Regression and the GLM Link Function",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/92",
+      "path": "math/0092-poisson-regression-and-the-glm-link-function",
+      "first_solved_at": "2026-10-31T11:04:28.747Z",
+      "last_pushed_at": "2026-10-31T11:04:28.747Z"
     }
   }
 }

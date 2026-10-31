@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 32 problems · 0 labs · 62 math
+**95** solved · 32 problems · 0 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-30 | [solution](math/0014-orthogonality-and-projections) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-02 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
+| [Poisson Regression and the GLM Link Function](https://www.deep-ml.com/math-problems/92) | medium | 2026-10-31 | [solution](math/0092-poisson-regression-and-the-glm-link-function) |
 | [Polynomial Regression and Step Functions](https://www.deep-ml.com/math-problems/110) | medium | 2026-10-31 | [solution](math/0110-polynomial-regression-and-step-functions) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-02 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Qualitative Predictors, Dummy Coding and Interactions](https://www.deep-ml.com/math-problems/105) | medium | 2026-10-31 | [solution](math/0105-qualitative-predictors-dummy-coding-and-interactions) |
