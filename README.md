@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**93** solved · 32 problems · 0 labs · 61 math
+**94** solved · 32 problems · 0 labs · 62 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Sample Tests: Pooled t, Welch, and Paired](https://www.deep-ml.com/math-problems/86) | medium | 2026-10-13 | [solution](math/0086-two-sample-tests-pooled-t-welch-and-paired) |
 | [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-10-13 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-02 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-10-31 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-10-19 | [solution](math/0028-bayesian-methods) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-10-31 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-02 | [solution](math/0016-eigendecomposition-and-svd) |
