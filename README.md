@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 32 problems · 0 labs · 58 math
+**91** solved · 32 problems · 0 labs · 59 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-02 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Polynomial Regression and Step Functions](https://www.deep-ml.com/math-problems/110) | medium | 2026-10-31 | [solution](math/0110-polynomial-regression-and-step-functions) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-02 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Qualitative Predictors, Dummy Coding and Interactions](https://www.deep-ml.com/math-problems/105) | medium | 2026-10-31 | [solution](math/0105-qualitative-predictors-dummy-coding-and-interactions) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-02 | [solution](math/0031-regularization-and-generalization) |
 | [RSE, $R^2$, and the F-Statistic for Overall Significance](https://www.deep-ml.com/math-problems/76) | medium | 2026-10-13 | [solution](math/0076-rse-r-2-and-the-f-statistic-for-overall-significance) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-01 | [solution](math/0032-softmax-and-cross-entropy) |

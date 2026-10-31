@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:49:08.477Z",
+  "generated_at": "2026-10-31T09:55:35.725Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1054,6 +1054,17 @@
       "path": "math/0110-polynomial-regression-and-step-functions",
       "first_solved_at": "2026-10-31T09:49:07.974Z",
       "last_pushed_at": "2026-10-31T09:49:07.974Z"
+    },
+    "math:105": {
+      "kind": "math",
+      "id": "105",
+      "title": "Qualitative Predictors, Dummy Coding and Interactions",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/105",
+      "path": "math/0105-qualitative-predictors-dummy-coding-and-interactions",
+      "first_solved_at": "2026-10-31T09:55:35.048Z",
+      "last_pushed_at": "2026-10-31T09:55:35.048Z"
     }
   }
 }
