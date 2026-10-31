@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:34:03.863Z",
+  "generated_at": "2026-10-31T12:37:23.251Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -1131,6 +1131,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-10-31T12:34:03.325Z",
       "last_pushed_at": "2026-10-31T12:34:03.325Z"
+    },
+    "math:95": {
+      "kind": "math",
+      "id": "95",
+      "title": "Basis Functions and Degrees of Freedom",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/95",
+      "path": "math/0095-basis-functions-and-degrees-of-freedom",
+      "first_solved_at": "2026-10-31T12:37:22.392Z",
+      "last_pushed_at": "2026-10-31T12:37:22.392Z"
     }
   }
 }
